@@ -1,0 +1,16 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Projeto incial do https://curso.dev, do Filipe Deschamps, para iniciar estudos em programação do curso",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "gabrieldias102",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
