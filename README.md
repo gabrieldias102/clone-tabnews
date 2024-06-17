@@ -1,1 +1,1 @@
-# tab-news
+# TabNews
